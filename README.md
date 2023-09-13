@@ -1,1 +1,1 @@
-# cs260
+# This is CS 260
